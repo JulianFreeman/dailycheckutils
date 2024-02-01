@@ -1,4 +1,6 @@
 {
-    "software_safe_info": "software_marks_v1.0.json",
-    "extensions_safe_info": "extensions_marks_v1.0.json"
+    "software_safe_info_win": "software_marks_win_v1.0.json",
+    "extensions_safe_info_win": "extensions_marks_win_v1.0.json",
+    "isp_safe_info": "isp_marks_v1.0.json",
+    "manufacturers_safe_info": "manufacturers_marks_v1.0.json"
 }
