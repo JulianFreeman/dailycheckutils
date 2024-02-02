@@ -707,6 +707,1275 @@
         },
         "浏览器管理": {
             "safe": true
+        },
+        "4K Video Downloader": {
+            "safe": true
+        },
+        "4K Video Downloader+": {
+            "safe": true
+        },
+        "7-Zip 19.00 (x64)": {
+            "safe": true
+        },
+        "AppNHost 1.0.5.1": {
+            "safe": true
+        },
+        "AutoTranslate Server 2.2.2": {
+            "safe": true
+        },
+        "Backup and Sync from Google": {
+            "safe": true
+        },
+        "BlueStacks (HyperV) Beta": {
+            "safe": true
+        },
+        "BlueStacks X": {
+            "safe": true
+        },
+        "CopyTrans HEIC for Windows": {
+            "safe": true
+        },
+        "Gmail": {
+            "safe": true
+        },
+        "Google Drive": {
+            "safe": true
+        },
+        "Google 云端硬盘": {
+            "safe": true
+        },
+        "Google 雲端硬碟": {
+            "safe": true
+        },
+        "Intel Driver && Support Assistant": {
+            "safe": true
+        },
+        "Intel(R) Chipset Device Software": {
+            "safe": true
+        },
+        "Intel(R) Computing Improvement Program": {
+            "safe": true
+        },
+        "Intel(R) Graphics Driver Software": {
+            "safe": true
+        },
+        "Intel(R) Icls": {
+            "safe": true
+        },
+        "Intel(R) LMS": {
+            "safe": true
+        },
+        "Intel(R) Management Engine Components": {
+            "safe": true
+        },
+        "Intel(R) Management Engine Driver": {
+            "safe": true
+        },
+        "Intel(R) Trusted Connect Service Client x64": {
+            "safe": true
+        },
+        "Intel(R) Trusted Connect Service Client x86": {
+            "safe": true
+        },
+        "Intel(R) Trusted Connect Services Client": {
+            "safe": true
+        },
+        "Intel® Driver & Support Assistant": {
+            "safe": true
+        },
+        "McAfee Safe Connect": {
+            "safe": false
+        },
+        "McAfee Security Scan Plus": {
+            "safe": false
+        },
+        "Messenger": {
+            "safe": true
+        },
+        "Microsoft VC++ redistributables repacked.": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31332": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.32.31332": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31332": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.32.31332": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.32.31332": {
+            "safe": true
+        },
+        "Mozilla Firefox (x64 zh-CN)": {
+            "safe": true
+        },
+        "OpenOffice 4.1.7": {
+            "safe": true
+        },
+        "OpenVPN Connect": {
+            "safe": true
+        },
+        "PhraseExpress v14.0.186": {
+            "safe": true
+        },
+        "Realtek PC Camera": {
+            "safe": true
+        },
+        "Revo Uninstaller 2.1.5": {
+            "safe": true
+        },
+        "Skype版本8.107": {
+            "safe": true
+        },
+        "Technitium MAC Address Changer v6.0": {
+            "safe": true
+        },
+        "Telegram Desktop": {
+            "safe": false
+        },
+        "Update for Windows 10 for x64-based Systems (KB5001716)": {
+            "safe": true
+        },
+        "VBCABLE, The Virtual Audio Cable": {
+            "safe": true
+        },
+        "Voicemeeter, The Virtual Mixing Console": {
+            "safe": true
+        },
+        "WhatsApp (Outdated)": {
+            "safe": true
+        },
+        "Windows 电脑健康状况检查": {
+            "safe": true
+        },
+        "YouTube": {
+            "safe": true
+        },
+        "拉线填表App 2.6.2": {
+            "safe": true
+        },
+        "文件": {
+            "safe": true
+        },
+        "文档": {
+            "safe": true
+        },
+        "簡報": {
+            "safe": true
+        },
+        "自动发帖 4.3.0": {
+            "safe": true
+        },
+        "自动轰鱼塘 1.3.3": {
+            "safe": true
+        },
+        "表格": {
+            "safe": true
+        },
+        "試算表": {
+            "safe": true
+        },
+        "账号任务管理 1.2.0": {
+            "safe": true
+        },
+        "AI Suite 3": {
+            "safe": true
+        },
+        "AIDA64 Extreme v6.85": {
+            "safe": true
+        },
+        "ARMOURY CRATE Lite Service": {
+            "safe": true
+        },
+        "ASUS AIOFan HAL": {
+            "safe": true
+        },
+        "Asus ApoDispatchConfigurator": {
+            "safe": true
+        },
+        "Asus AudioCaptureNotificationConfigurator": {
+            "safe": true
+        },
+        "ASUS AURA Display Component": {
+            "safe": true
+        },
+        "ASUS AURA Extension Card HAL": {
+            "safe": true
+        },
+        "ASUS AURA Motherboard HAL": {
+            "safe": true
+        },
+        "ASUS AURA Odd Component": {
+            "safe": true
+        },
+        "ASUS Aura SDK": {
+            "safe": true
+        },
+        "ASUS AURA VGA Component": {
+            "safe": true
+        },
+        "Asus DeviceRoutingConfigurator": {
+            "safe": true
+        },
+        "ASUS Framework Service": {
+            "safe": true
+        },
+        "ASUS GLCKIO2 Driver": {
+            "safe": true
+        },
+        "ASUS MB Peripheral Products": {
+            "safe": true
+        },
+        "Asus NahimicSettingsConfigurator": {
+            "safe": true
+        },
+        "Asus ProductDaemonSetup": {
+            "safe": true
+        },
+        "Asus ProfileSwitcherCleanup": {
+            "safe": true
+        },
+        "Asus Sonic Radar 3": {
+            "safe": true
+        },
+        "Asus Sonic Studio 3": {
+            "safe": true
+        },
+        "Asus SonicMapperConfigurator": {
+            "safe": true
+        },
+        "Asus SonicRadar3Setup": {
+            "safe": true
+        },
+        "Asus SonicStudio3Setup": {
+            "safe": true
+        },
+        "ASUS Update Helper": {
+            "safe": true
+        },
+        "AURA DRAM Component": {
+            "safe": true
+        },
+        "AURA lighting effect add-on": {
+            "safe": true
+        },
+        "AURA lighting effect add-on x64": {
+            "safe": true
+        },
+        "AURA Service": {
+            "safe": true
+        },
+        "BlueStacks (64-bit)": {
+            "safe": true
+        },
+        "Chrome Remote Desktop Host": {
+            "safe": true
+        },
+        "Cloudflare WARP": {
+            "safe": true
+        },
+        "Corsair AURA DRAM Component": {
+            "safe": true
+        },
+        "CPUID ROG CPU-Z 1.90": {
+            "safe": true
+        },
+        "CPUIDCoolerMaster CPU-Z 1.89": {
+            "safe": true
+        },
+        "DaVinci Resolve Keyboards": {
+            "safe": true
+        },
+        "DaVinci Resolve Panels": {
+            "safe": true
+        },
+        "ENE IO Driver": {
+            "safe": true
+        },
+        "ENE RGB HAL": {
+            "safe": true
+        },
+        "Free Alarm Clock": {
+            "safe": true
+        },
+        "GALAX GAMER RGB": {
+            "safe": true
+        },
+        "Gyazo 4.3.4.0": {
+            "safe": true
+        },
+        "Intel(R) Rapid Storage Technology": {
+            "safe": true
+        },
+        "Intel® Optane™ Pinning Explorer Extensions": {
+            "safe": true
+        },
+        "Kingston AURA DRAM Component": {
+            "safe": true
+        },
+        "Microsoft .NET Host - 5.0.10 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Host - 6.0.12 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Host FX Resolver - 5.0.10 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Host FX Resolver - 6.0.12 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Runtime - 5.0.10 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Runtime - 6.0.12 (x64)": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2005 Redistributable": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29112": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.27.29016": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2019 X64 Additional Runtime - 14.27.29112": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.27.29112": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.27.29016": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.27.29016": {
+            "safe": true
+        },
+        "Microsoft Windows Desktop Runtime - 6.0.12 (x64)": {
+            "safe": true
+        },
+        "NVIDIA Graphics Driver 536.23": {
+            "safe": true
+        },
+        "NVIDIA Install Application": {
+            "safe": true
+        },
+        "NVIDIA PhysX 系统软件 9.19.0218": {
+            "safe": true
+        },
+        "obs-ndi version 4.8.0": {
+            "safe": true
+        },
+        "Oracle VM VirtualBox 7.0.10": {
+            "safe": true
+        },
+        "Patriot Viper RGB": {
+            "safe": true
+        },
+        "PuTTY release 0.78 (64-bit)": {
+            "safe": true
+        },
+        "ROG Live Service": {
+            "safe": true
+        },
+        "Signal 6.46.0": {
+            "safe": true
+        },
+        "Simple Sticky Notes 4.9.5": {
+            "safe": true
+        },
+        "StrokesPlus.net version 0.5.7.8": {
+            "safe": true
+        },
+        "SumatraPDF": {
+            "safe": true
+        },
+        "TechPowerUp GPU-Z": {
+            "safe": true
+        },
+        "Affinity Photo": {
+            "safe": true
+        },
+        "AnyDesk MSI": {
+            "safe": true
+        },
+        "ASUS Motherboard": {
+            "safe": true
+        },
+        "Compute Sanitizer": {
+            "safe": true
+        },
+        "CUBLAS Development": {
+            "safe": true
+        },
+        "CUBLAS Runtime": {
+            "safe": true
+        },
+        "CUDA CCCL": {
+            "safe": true
+        },
+        "CUDA Documentation": {
+            "safe": true
+        },
+        "CUDA Profiler API": {
+            "safe": true
+        },
+        "CUDA Profiler Tools": {
+            "safe": true
+        },
+        "CUDA Toolkit": {
+            "safe": true
+        },
+        "CUDART Runtime": {
+            "safe": true
+        },
+        "CUFFT Development": {
+            "safe": true
+        },
+        "cuobjdump": {
+            "safe": true
+        },
+        "CUPTI": {
+            "safe": true
+        },
+        "CURAND Development": {
+            "safe": true
+        },
+        "CURAND Runtime": {
+            "safe": true
+        },
+        "CUSOLVER Development": {
+            "safe": true
+        },
+        "CUSOLVER Runtime": {
+            "safe": true
+        },
+        "CUSPARSE Development": {
+            "safe": true
+        },
+        "CUSPARSE Runtime": {
+            "safe": true
+        },
+        "cuxxfilt": {
+            "safe": true
+        },
+        "DeepL": {
+            "safe": true
+        },
+        "Disassembler": {
+            "safe": true
+        },
+        "Docs": {
+            "safe": true
+        },
+        "ENE_EHD_M2_HAL": {
+            "safe": true
+        },
+        "Honeyview": {
+            "safe": true
+        },
+        "Microsoft .NET Core Host - 3.1.22 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Core Host FX Resolver - 3.1.22 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Core Runtime - 3.1.22 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Host - 6.0.3 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Host FX Resolver - 6.0.3 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Runtime - 6.0.3 (x64)": {
+            "safe": true
+        },
+        "Microsoft Garage Mouse without Borders": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.31.31103": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.31.31103": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.31.31103": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.31.31103": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.31.31103": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.31.31103": {
+            "safe": true
+        },
+        "Microsoft Windows Desktop Runtime - 3.1.22 (x64)": {
+            "safe": true
+        },
+        "Microsoft Windows Desktop Runtime - 6.0.3 (x64)": {
+            "safe": true
+        },
+        "Monkey's Audio x64": {
+            "safe": true
+        },
+        "NPP Development": {
+            "safe": true
+        },
+        "NPP Runtime": {
+            "safe": true
+        },
+        "nvcc": {
+            "safe": true
+        },
+        "NVIDIA Backend": {
+            "safe": true
+        },
+        "NVIDIA Container": {
+            "safe": true
+        },
+        "NVIDIA CUDA Development 11.8": {
+            "safe": true
+        },
+        "NVIDIA CUDA Documentation 11.8": {
+            "safe": true
+        },
+        "NVIDIA CUDA Nsight NVTX 11.8": {
+            "safe": true
+        },
+        "NVIDIA CUDA Runtime 11.8": {
+            "safe": true
+        },
+        "NVIDIA CUDA Visual Studio Integration 11.8": {
+            "safe": true
+        },
+        "NVIDIA FrameView SDK 1.3.8023.31719884": {
+            "safe": true
+        },
+        "NVIDIA GeForce Experience 3.26.0.115": {
+            "safe": true
+        },
+        "NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)": {
+            "safe": true
+        },
+        "NVIDIA HD 音频驱动程序 1.3.39.16": {
+            "safe": true
+        },
+        "NVIDIA LocalSystem Container": {
+            "safe": true
+        },
+        "NVIDIA Message Bus for NvContainer": {
+            "safe": true
+        },
+        "NVIDIA NetworkService Container": {
+            "safe": true
+        },
+        "NVIDIA NodeJS": {
+            "safe": true
+        },
+        "NVIDIA Nsight Compute 2022.3.0": {
+            "safe": true
+        },
+        "NVIDIA Nsight Systems 2022.4.2": {
+            "safe": true
+        },
+        "NVIDIA Nsight Visual Studio Edition 2022.3.0.22245": {
+            "safe": true
+        },
+        "NVIDIA NVAPI Monitor plugin for NvContainer": {
+            "safe": true
+        },
+        "NVIDIA NvModuleTracker": {
+            "safe": true
+        },
+        "NVIDIA Optimus Update 39.4.0.0": {
+            "safe": true
+        },
+        "NVIDIA PhysX 系统软件 9.21.0713": {
+            "safe": true
+        },
+        "NVIDIA Session Container": {
+            "safe": true
+        },
+        "NVIDIA ShadowPlay 3.26.0.115": {
+            "safe": true
+        },
+        "Nvidia Share": {
+            "safe": true
+        },
+        "NVIDIA SHIELD Streaming": {
+            "safe": true
+        },
+        "NVIDIA SHIELD Wireless Controller Driver": {
+            "safe": true
+        },
+        "NVIDIA Telemetry Client": {
+            "safe": true
+        },
+        "NVIDIA TelemetryApi helper for NvContainer": {
+            "safe": true
+        },
+        "NVIDIA Tools Extension SDK (NVTX) - 64 bit": {
+            "safe": true
+        },
+        "NVIDIA Update Core": {
+            "safe": true
+        },
+        "NVIDIA USBC Driver 1.50.831.832": {
+            "safe": true
+        },
+        "NVIDIA User Container": {
+            "safe": true
+        },
+        "NVIDIA Virtual Audio 4.45.0.0": {
+            "safe": true
+        },
+        "NVIDIA Virtual Host Controller": {
+            "safe": true
+        },
+        "NVIDIA Watchdog Plugin for NvContainer": {
+            "safe": true
+        },
+        "NVIDIA 图形驱动程序 522.06": {
+            "safe": true
+        },
+        "NVIDIA 更新 39.4.0.0": {
+            "safe": true
+        },
+        "NVJPEG Development": {
+            "safe": true
+        },
+        "NVJPEG Runtime": {
+            "safe": true
+        },
+        "NVML Development": {
+            "safe": true
+        },
+        "nvprune": {
+            "safe": true
+        },
+        "NVRTC Development": {
+            "safe": true
+        },
+        "NVRTC Runtime": {
+            "safe": true
+        },
+        "NVTX Development": {
+            "safe": true
+        },
+        "OpenOffice 4.1.14": {
+            "safe": true
+        },
+        "Patriot Viper DRAM RGB": {
+            "safe": true
+        },
+        "Patriot Viper M2 SSD RGB": {
+            "safe": true
+        },
+        "PHISON HAL": {
+            "safe": true
+        },
+        "Revo Uninstaller 2.4.2": {
+            "safe": true
+        },
+        "ROG FAN XPERT 4": {
+            "safe": true
+        },
+        "ROGFontInstaller": {
+            "safe": true
+        },
+        "Sheets": {
+            "safe": true
+        },
+        "Twinkle Tray 1.15.3": {
+            "safe": true
+        },
+        "Universal Holtek RGB DRAM": {
+            "safe": true
+        },
+        "WhatsApp多账号聊天 1.0.0": {
+            "safe": true
+        },
+        "多账号聊天 1.3.7": {
+            "safe": true
+        },
+        "彩球本地软件 5.2.10": {
+            "safe": true
+        },
+        "拉线填表App 2.6.3": {
+            "safe": true
+        },
+        "聊天工具 1.3.7": {
+            "safe": true
+        },
+        "Adobe Bridge 2023": {
+            "safe": true
+        },
+        "BlueStacks 5": {
+            "safe": true
+        },
+        "Care Center Service": {
+            "safe": true
+        },
+        "CopyQ 6.2.0": {
+            "safe": true
+        },
+        "Google Update Helper": {
+            "safe": true
+        },
+        "Google 文档": {
+            "safe": true
+        },
+        "HWiNFO64 Version 7.40": {
+            "safe": true
+        },
+        "Microsoft .NET Core Host - 3.1.15 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Core Host FX Resolver - 3.1.15 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Core Runtime - 3.1.15 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Host - 5.0.7 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Host FX Resolver - 5.0.7 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Runtime - 5.0.7 (x64)": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31326": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31326": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.32.31326": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31326": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.32.31326": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.32.31326": {
+            "safe": true
+        },
+        "Microsoft Windows Desktop Runtime - 3.1.15 (x64)": {
+            "safe": true
+        },
+        "OpenOffice 4.1.13": {
+            "safe": true
+        },
+        "Power Automate for desktop": {
+            "safe": true
+        },
+        "Thunder V1.5.6 1.5.6": {
+            "safe": true
+        },
+        "TreeSize Free V4.6.3 (64 bit)": {
+            "safe": true
+        },
+        "Twinkle Tray 1.14.3": {
+            "safe": true
+        },
+        "Windows Application Driver": {
+            "safe": true
+        },
+        "多账号聊天 1.3.6": {
+            "safe": true
+        },
+        "幻灯片": {
+            "safe": true
+        },
+        "彩球本地软件 5.2.2": {
+            "safe": true
+        },
+        "浏览器用户管理": {
+            "safe": true
+        },
+        "聊天工具 1.3.5": {
+            "safe": true
+        },
+        "联机加好友一 1.3.4": {
+            "safe": true
+        },
+        "自动发帖 4.6.0": {
+            "safe": true
+        },
+        "自动登记 1.2.0": {
+            "safe": true
+        },
+        "自动轰鱼塘 1.3.0": {
+            "safe": true
+        },
+        "账号管家 6.0.0": {
+            "safe": true
+        },
+        "ARMOURY CRATE Service": {
+            "safe": true
+        },
+        "ASUS Aac_NBDT HAL": {
+            "safe": true
+        },
+        "ASUS AURA Headset Component": {
+            "safe": true
+        },
+        "ASUS Keyboard HAL": {
+            "safe": true
+        },
+        "ASUS Mouse HAL": {
+            "safe": true
+        },
+        "Gyazo 4.1.3.0": {
+            "safe": true
+        },
+        "LibreOffice 6.4.6.2": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.30.30704": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.30.30704": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.30.30704": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.30.30704": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30704": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30704": {
+            "safe": true
+        },
+        "NVAPI Monitor plugin for NvContainer": {
+            "safe": true
+        },
+        "NVIDIA ABHub": {
+            "safe": true
+        },
+        "NVIDIA GeForce Experience 3.20.3.47": {
+            "safe": true
+        },
+        "NVIDIA Graphics Driver 516.40": {
+            "safe": true
+        },
+        "NVIDIA PhysX System Software 9.20.0221": {
+            "safe": true
+        },
+        "NVIDIA ShadowPlay 3.20.3.47": {
+            "safe": true
+        },
+        "NVIDIA Virtual Audio 4.16.0.0": {
+            "safe": true
+        },
+        "OpenVPN 2.4.9-I601-Win10 ": {
+            "safe": true
+        },
+        "Preme for Windows": {
+            "safe": true
+        },
+        "Propeller5 5.0.30": {
+            "safe": true
+        },
+        "Skype版本8.81": {
+            "safe": true
+        },
+        "Thunder V1.5.4 1.5.4": {
+            "safe": true
+        },
+        "WhatsApp": {
+            "safe": true
+        },
+        "多账号聊天 1.4.3": {
+            "safe": true
+        },
+        "拉线填表App 2.7.2": {
+            "safe": true
+        },
+        "聊天工具 1.3.8": {
+            "safe": true
+        },
+        "联机加好友一 1.2.0": {
+            "safe": true
+        },
+        "联机加好友二 1.3.0": {
+            "safe": true
+        },
+        "自动发帖 4.6.4": {
+            "safe": true
+        },
+        "7-Zip 23.01 (x64)": {
+            "safe": true
+        },
+        "ASUS Ambient HAL": {
+            "safe": true
+        },
+        "Intel(R) ME WMI Provider": {
+            "safe": true
+        },
+        "Intel(R) Serial IO": {
+            "safe": true
+        },
+        "Microsoft .NET Host - 6.0.16 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Host FX Resolver - 6.0.16 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Runtime - 6.0.16 (x64)": {
+            "safe": true
+        },
+        "NVIDIA Graphics Driver 531.68": {
+            "safe": true
+        },
+        "Realtek Audio Driver": {
+            "safe": true
+        },
+        "Vivaldi": {
+            "safe": true
+        },
+        "Yandex": {
+            "safe": true
+        },
+        "BlueStacks App Player": {
+            "safe": true
+        },
+        "BlueStacks Services": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532": {
+            "safe": true
+        },
+        "Microsoft XNA Framework Redistributable 4.0": {
+            "safe": true
+        },
+        "MSI App Player": {
+            "safe": true
+        },
+        "MusicBee 3.5.8698": {
+            "safe": true
+        },
+        "ocenaudio": {
+            "safe": true
+        },
+        "OpenAL": {
+            "safe": true
+        },
+        "Recuva": {
+            "safe": true
+        },
+        "Slides": {
+            "safe": true
+        },
+        "Twinkle Tray 1.15.4": {
+            "safe": true
+        },
+        "WinRAR 6.22 (64-bit)": {
+            "safe": true
+        },
+        "联机app 1.0.6": {
+            "safe": true
+        },
+        "自动发帖 4.6.2": {
+            "safe": true
+        },
+        "自动登记 1.1.8": {
+            "safe": true
+        },
+        "账号管家 6.3.5": {
+            "safe": true
+        },
+        "AIDA64 Extreme v6.92": {
+            "safe": true
+        },
+        "AutoTranslate Server 2.2.3": {
+            "safe": true
+        },
+        "NVIDIA Graphics Driver 457.51": {
+            "safe": true
+        },
+        "Realtek Ethernet Controller Driver": {
+            "safe": true
+        },
+        "Signal 6.41.0": {
+            "safe": true
+        },
+        "彩球本地软件 5.3.0": {
+            "safe": true
+        },
+        "7-Zip 19.00": {
+            "safe": true
+        },
+        "ActivePresenter": {
+            "safe": true
+        },
+        "ASUS MousePad HAL": {
+            "safe": true
+        },
+        "Audacity 3.0.5": {
+            "safe": true
+        },
+        "ENE_AIC_Marvell_HAL": {
+            "safe": true
+        },
+        "ENE_DRAM_RGB_AIO": {
+            "safe": true
+        },
+        "ENE_DRAM_RGB_AURA42": {
+            "safe": true
+        },
+        "ENE_EHD_ASM_HAL": {
+            "safe": true
+        },
+        "ENE_MousePad_HAL": {
+            "safe": true
+        },
+        "ENE_X-JMI_HAL": {
+            "safe": true
+        },
+        "ENE_X_AIC_HAL": {
+            "safe": true
+        },
+        "Free Download Manager": {
+            "safe": true
+        },
+        "KeePass Password Safe 2.49": {
+            "safe": true
+        },
+        "Microsoft 365 Apps for enterprise - en-us": {
+            "safe": true
+        },
+        "Microsoft Visio - en-us": {
+            "safe": true
+        },
+        "NVIDIA FrameView SDK 1.3.8513.32290073": {
+            "safe": true
+        },
+        "NVIDIA GeForce Experience 3.27.0.112": {
+            "safe": true
+        },
+        "NVIDIA HD 音訊驅動程式 1.3.40.14": {
+            "safe": true
+        },
+        "NVIDIA Optimus Update 39.5.0.0": {
+            "safe": true
+        },
+        "NVIDIA PhysX 系統軟體 9.21.0713": {
+            "safe": true
+        },
+        "NVIDIA ShadowPlay 3.27.0.112": {
+            "safe": true
+        },
+        "NVIDIA Virtual Audio 4.49.0.0": {
+            "safe": true
+        },
+        "NVIDIA 圖形驅動程式 537.58": {
+            "safe": true
+        },
+        "NVIDIA 更新程式 39.5.0.0": {
+            "safe": true
+        },
+        "OpenOffice 4.1.10": {
+            "safe": true
+        },
+        "Pointofix": {
+            "safe": true
+        },
+        "PotPlayer-64 bit": {
+            "safe": false
+        },
+        "PrivaZer": {
+            "safe": true
+        },
+        "Realtek High Definition Audio Driver": {
+            "safe": true
+        },
+        "Revo Uninstaller 2.3.0": {
+            "safe": true
+        },
+        "RGB Fusion": {
+            "safe": true
+        },
+        "Skype版本8.110": {
+            "safe": true
+        },
+        "StrokesPlus.net version 0.5.7.4": {
+            "safe": true
+        },
+        "Twinkle Tray 1.15.0-beta2": {
+            "safe": true
+        },
+        "Windows PC Health Check": {
+            "safe": true
+        },
+        "联机加好友一 1.3.2": {
+            "safe": true
+        },
+        "联机加好友三 1.2.1": {
+            "safe": true
+        },
+        "7-Zip 20.02 alpha (x64)": {
+            "safe": true
+        },
+        "Intel(R) Network Connections Drivers": {
+            "safe": true
+        },
+        "Microsoft .NET Host - 6.0.20 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Host FX Resolver - 6.0.20 (x64)": {
+            "safe": true
+        },
+        "Microsoft .NET Runtime - 6.0.20 (x64)": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23026": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29914": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2019 X64 Additional Runtime - 14.28.29914": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.28.29914": {
+            "safe": true
+        },
+        "NVIDIA 3D Vision Driver 353.62": {
+            "safe": true
+        },
+        "NVIDIA Control Panel 353.62": {
+            "safe": true
+        },
+        "NVIDIA Graphics Driver 353.62": {
+            "safe": true
+        },
+        "NVIDIA HD Audio Driver 1.3.34.3": {
+            "safe": true
+        },
+        "NVIDIA nView 146.33": {
+            "safe": true
+        },
+        "NVIDIA Stereoscopic 3D Driver": {
+            "safe": true
+        },
+        "NVIDIA WMI 2.22.0": {
+            "safe": true
+        },
+        "OpenOffice 4.1.9": {
+            "safe": true
+        },
+        "Realtek USB Wireless LAN Driver": {
+            "safe": true
+        },
+        "Realtek USB Wireless LAN Utility": {
+            "safe": true
+        },
+        "Revo Uninstaller 2.1.7": {
+            "safe": true
+        },
+        "Simple Sticky Notes 5.8": {
+            "safe": true
+        },
+        "Skype版本8.97": {
+            "safe": true
+        },
+        "Twinkle Tray 1.13.9": {
+            "safe": true
+        },
+        "彩球本地软件 5.2.4": {
+            "safe": true
+        },
+        "拉线填表App 2.4.1": {
+            "safe": true
+        },
+        "本地缓存 1.1.1": {
+            "safe": true
+        },
+        "自动轰鱼塘 1.2.1": {
+            "safe": true
+        },
+        "账号任务管理 1.1.0": {
+            "safe": true
         }
     },
     "extensions": {
@@ -1633,15 +2902,288 @@
         "ollafgacipkpmhdanjpnffpejlokihoa": {
             "safe": true,
             "note": "自家"
+        },
+        "nmmhkkegccagdldgiimedpiccmgmieda": {
+            "safe": true
+        },
+        "cofdbpoegempjloogbagkncekinflcnj": {
+            "safe": true
+        },
+        "enmbflekjlcicdhenapamgkaijadpfdc": {
+            "safe": true
+        },
+        "eckpjmeijpoipmldfbckahppeonkoeko": {
+            "safe": true
+        },
+        "acofndgbcimipbpeoplfjcapdbebbmca": {
+            "safe": true
+        },
+        "dpplndkoilcedkdjicmbeoahnckdcnle": {
+            "safe": true
+        },
+        "lomplcejmabhikeeiehckpmpaannofke": {
+            "safe": true
+        },
+        "gbaajbcbombnfcdcdeigojfplhmlonhm": {
+            "safe": true
+        },
+        "llgcoecjpcfpkdiifdejeaijcajkfgfb": {
+            "safe": true
+        },
+        "bjpclojdgakmcjmfdgiodjgfncaejaki": {
+            "safe": true
+        },
+        "pkkhlnbpcndomejkmhhblclpcclddbng": {
+            "safe": true
+        },
+        "ookjakhmhjhhpcjhmmciemkjledcinpb": {
+            "safe": true
+        },
+        "edflmiemmpcbpeblclbdhgfaenhkadoe": {
+            "safe": true
+        },
+        "hoemkcahgjoppckpbkkndjglobakemef": {
+            "safe": true
+        },
+        "mfoabijeonbonemhekkpgokdoapekpeg": {
+            "safe": true
+        },
+        "jdapcfhedlkpmllnfmllnknhpdbbcchb": {
+            "safe": true
+        },
+        "hlkenndednhfkekhgcdicdfddnkalmdm": {
+            "safe": true
+        },
+        "ljbciebhbhphocdikcklbkdbdeobgigg": {
+            "safe": true
+        },
+        "cbndfnjbmnnfdonoilhkgoemoimbbmif": {
+            "safe": true
+        },
+        "hefaplpbnhdjepfefnbheimdoekdnpoc": {
+            "safe": true
+        },
+        "fancfknaplihpclbhbpclnmmjcjanbaf": {
+            "safe": true
+        },
+        "jmjflgjpcpepeafmmgdpfkogkghcpiha": {
+            "safe": true
+        },
+        "hpnmibjinkjiolfeahefdajhhlkpmnpb": {
+            "safe": true
+        },
+        "efnbkdcfmcmnhlkaijjjmhjjgladedno": {
+            "safe": true
+        },
+        "ninldlfeibonfnpbpnpioenjfhicdcgk": {
+            "safe": true
+        },
+        "cnmbccfgalbnlkacocgjdahiegajicfp": {
+            "safe": true
+        },
+        "honkaphijniaihhgdofolmkiediahmdk": {
+            "safe": true
+        },
+        "echbbbbppdabiajfhialahklkmllppbj": {
+            "safe": true
+        },
+        "kiaememecbcldfocdbommccceegkfgkd": {
+            "safe": true
+        },
+        "ljglajjnnkapghbckkcmodicjhacbfhk": {
+            "safe": true
+        },
+        "ncppfjladdkdaemaghochfikpmghbcpc": {
+            "safe": true
+        },
+        "dpaoobalfoigikhdaigociheomdifbmp": {
+            "safe": true
+        },
+        "aniccehlpaeeipafdellaiofkoecclkl": {
+            "safe": true
+        },
+        "macljhcmadbkoknaebjdchhiaeamjjcp": {
+            "safe": true
+        },
+        "kagpabjoboikccfdghpdlaaopmgpgfdc": {
+            "safe": true
+        },
+        "bmnmheameaampkmnmldhlfcolnhconep": {
+            "safe": true
+        },
+        "hdkkicnecdfmcleifeklmbkpcecbflod": {
+            "safe": true
+        },
+        "ijaalbkapilamlfdldngmhenomhpbchb": {
+            "safe": true
+        },
+        "hecaanealbgbcccjmgjnnmilnmclgcpm": {
+            "safe": true
+        },
+        "oicbmhcjjlmppfllncgnikcfghnghake": {
+            "safe": true
+        },
+        "mlgafkgkikglmnlncljkakppanlplncn": {
+            "safe": true
+        },
+        "bkpenclhmiealbebdopglffmfdiilejc": {
+            "safe": true
+        },
+        "oggifoiclfpgjcacgcfhcbhpioegabfb": {
+            "safe": true
+        },
+        "ocfdeaegoegaodgbailmhebfecmkoljp": {
+            "safe": true
+        },
+        "mnojpmjdmbbfmejpflffifhffcmidifd": {
+            "safe": true
+        },
+        "eoekgddffceapcfebahbclcacljnkpap": {
+            "safe": true
+        },
+        "fgeohbinbjdofdmdlaiemdebcienlcgh": {
+            "safe": true
+        },
+        "depcdfkfndhiikgpjjhfekmhndcjodgb": {
+            "safe": true
+        },
+        "bfahmieadekfmblacfjhiacmckmgdpio": {
+            "safe": true
+        },
+        "andfhhccdnkofpdojmigljkclnklnkcb": {
+            "safe": true
+        },
+        "aaafaichkdancmiadaonoglfjeodjkik": {
+            "safe": true
+        },
+        "iloigdigjemgpoejkbcbehdjbihelhkk": {
+            "safe": true
+        },
+        "djpoelbmkfjgldheiigjdemblmkgnbai": {
+            "safe": true
+        },
+        "gbeoblcenfhkpjfadjjkleedleknogak": {
+            "safe": true
+        },
+        "klpenhplbkbigpbhomjedpdcbihnegnj": {
+            "safe": true
+        },
+        "laabfdhhjdkihaphdokonjokefhacjgo": {
+            "safe": true
+        },
+        "mboebhpagckpgmefciblaophgnddbcfj": {
+            "safe": true
+        },
+        "ceofheakaalaecnecdkdanhejojkpeai": {
+            "safe": true
+        },
+        "oagoamcleklkjbfmcbdkpgfodechilgo": {
+            "safe": true
+        },
+        "ibgoihccinafjdjhihbecodbaebchjnl": {
+            "safe": true
+        },
+        "epbpjfnnmpiadhmpjgpjeilnhfhppnfd": {
+            "safe": true
+        },
+        "nfbcjdghmojehboibifiknlaabmdocbg": {
+            "safe": true
+        },
+        "jghecgabfgfdldnmbfkhmffcabddioke": {
+            "safe": true
+        },
+        "cdmladegeclhcjdphaaldilbniaokhjp": {
+            "safe": true
+        },
+        "bjeadmjpchabhcfgiifipmgjplcmemfd": {
+            "safe": true
+        },
+        "kkelicaakdanhinjdeammmilcgefonfh": {
+            "safe": true
+        },
+        "ddjjkjammnpmohnaakhfagjlghloaogb": {
+            "safe": true
+        },
+        "cogojnnmknhgkjgnfkklekmdidfldhim": {
+            "safe": true
+        },
+        "feekcngljnokghoknhifghoncfmifmhh": {
+            "safe": true
+        },
+        "fbogbcgjhhpfdljcagmjghbpfomapgpi": {
+            "safe": true
+        },
+        "fiabpbjfkfbfbiogeoooefeomkjjmjoc": {
+            "safe": true
+        },
+        "mjnjlhbikhjblpcocllcfgcoofbhllfo": {
+            "safe": true
+        },
+        "ieadnfklgpcjlpdjcnnfalflgfcldnce": {
+            "safe": true
+        },
+        "piooheemohkkabhhieaiboehcnhbgmdj": {
+            "safe": true
+        },
+        "ijfoggdbokhonghfhplcdhpnlbcklmmj": {
+            "safe": true
+        },
+        "fkgkiojlkcfghgjpmbfncohledbkhfkd": {
+            "safe": true
+        },
+        "lfhefjcjilagdeoljfbjdmoonchpojjc": {
+            "safe": true
+        },
+        "ejiddoiojahkdfblhnpaigjicgddjafh": {
+            "safe": true
+        },
+        "miodafpkaokfjgibfknnbkmmblmgddjm": {
+            "safe": true
+        },
+        "djoodhngdpfmgbcamefkkeeafhbplldh": {
+            "safe": true
+        },
+        "ophblfinjblfopfggaoeafpfiacchgod": {
+            "safe": true
+        },
+        "epgbnlkbfglfpldfhffclbadeihodfda": {
+            "safe": true
+        },
+        "lkajndiijpokgipbllcpcnnglbakpkmn": {
+            "safe": true
+        },
+        "ncejmocjenekgpgikgpglkpnhnmhlokn": {
+            "safe": true
+        },
+        "phlpkfmngeaifbgklkobooogfmkmaafp": {
+            "safe": true
+        },
+        "lmigoflgnkamnbadmnciijdneekddlnk": {
+            "safe": true
         }
     },
     "isp": {
         "AS701 Verizon Business": {
             "safe": true
+        },
+        "AS12271 Charter Communications Inc": {
+            "safe": true
         }
     },
     "manufacturer": {
         "Dell Inc.": {
+            "safe": true
+        },
+        "ASUS": {
+            "safe": true
+        },
+        "Acer": {
+            "safe": true
+        },
+        "ASUSTeK COMPUTER INC.": {
+            "safe": true
+        },
+        "Gigabyte Technology Co., Ltd.": {
             "safe": true
         }
     }
