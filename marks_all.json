@@ -3186,5 +3186,274 @@
         "Gigabyte Technology Co., Ltd.": {
             "safe": true
         }
+    },
+    "software_mac": {
+        "Activity Monitor.app": {
+            "safe": true
+        },
+        "AirPort Utility.app": {
+            "safe": true
+        },
+        "AntivirusforMac.app": {
+            "safe": true
+        },
+        "AnyDesk.app": {
+            "safe": true
+        },
+        "App Store.app": {
+            "safe": true
+        },
+        "AppCleaner.app": {
+            "safe": true
+        },
+        "Audio MIDI Setup.app": {
+            "safe": true
+        },
+        "Automator.app": {
+            "safe": true
+        },
+        "balenaEtcher.app": {
+            "safe": true
+        },
+        "Bitdefender VPN.app": {
+            "safe": true
+        },
+        "BitdefenderAgent.app": {
+            "safe": true
+        },
+        "Bluetooth File Exchange.app": {
+            "safe": true
+        },
+        "Books.app": {
+            "safe": true
+        },
+        "Boot Camp Assistant.app": {
+            "safe": true
+        },
+        "Calculator.app": {
+            "safe": true
+        },
+        "Calendar.app": {
+            "safe": true
+        },
+        "Chess.app": {
+            "safe": true
+        },
+        "Clock.app": {
+            "safe": true
+        },
+        "ColorSync Utility.app": {
+            "safe": true
+        },
+        "Console.app": {
+            "safe": true
+        },
+        "Contacts.app": {
+            "safe": true
+        },
+        "DBeaver.app": {
+            "safe": true
+        },
+        "Dictionary.app": {
+            "safe": true
+        },
+        "Digital Color Meter.app": {
+            "safe": true
+        },
+        "Disk Utility.app": {
+            "safe": true
+        },
+        "FaceTime.app": {
+            "safe": true
+        },
+        "FindMy.app": {
+            "safe": true
+        },
+        "Firefox.app": {
+            "safe": true
+        },
+        "Font Book.app": {
+            "safe": true
+        },
+        "FreeFileSync.app": {
+            "safe": true
+        },
+        "Freeform.app": {
+            "safe": true
+        },
+        "GitHub Desktop.app": {
+            "safe": true
+        },
+        "Google Chrome.app": {
+            "safe": true
+        },
+        "GPG Keychain.app": {
+            "safe": true
+        },
+        "Grapher.app": {
+            "safe": true
+        },
+        "Home.app": {
+            "safe": true
+        },
+        "IDLE.app": {
+            "safe": true
+        },
+        "Image Capture.app": {
+            "safe": true
+        },
+        "JetBrains Toolbox.app": {
+            "safe": true
+        },
+        "KeePassXC.app": {
+            "safe": true
+        },
+        "Keka.app": {
+            "safe": true
+        },
+        "Keychain Access.app": {
+            "safe": true
+        },
+        "LadioCast.app": {
+            "safe": true
+        },
+        "Launchpad.app": {
+            "safe": true
+        },
+        "Logi Options+ Driver Installer.app": {
+            "safe": true
+        },
+        "logioptionsplus.app": {
+            "safe": true
+        },
+        "Mail.app": {
+            "safe": true
+        },
+        "Maps.app": {
+            "safe": true
+        },
+        "Messages.app": {
+            "safe": true
+        },
+        "Migration Assistant.app": {
+            "safe": true
+        },
+        "Mission Control.app": {
+            "safe": true
+        },
+        "Monosnap.app": {
+            "safe": true
+        },
+        "Music.app": {
+            "safe": true
+        },
+        "News.app": {
+            "safe": true
+        },
+        "Notes.app": {
+            "safe": true
+        },
+        "OpenVPN Connect.app": {
+            "safe": true
+        },
+        "Photo Booth.app": {
+            "safe": true
+        },
+        "Photos.app": {
+            "safe": true
+        },
+        "Podcasts.app": {
+            "safe": true
+        },
+        "Preview.app": {
+            "safe": true
+        },
+        "PyCharm Community.app": {
+            "safe": true
+        },
+        "Python Launcher.app": {
+            "safe": true
+        },
+        "QuickTime Player.app": {
+            "safe": true
+        },
+        "RealTimeSync.app": {
+            "safe": true
+        },
+        "Reminders.app": {
+            "safe": true
+        },
+        "Safari.app": {
+            "safe": true
+        },
+        "Screenshot.app": {
+            "safe": true
+        },
+        "Script Editor.app": {
+            "safe": true
+        },
+        "Shortcuts.app": {
+            "safe": true
+        },
+        "Siri.app": {
+            "safe": true
+        },
+        "Skype.app": {
+            "safe": true
+        },
+        "Skype多开1.app": {
+            "safe": true
+        },
+        "Skype多开2.app": {
+            "safe": true
+        },
+        "Skype多开3.app": {
+            "safe": true
+        },
+        "Stickies.app": {
+            "safe": true
+        },
+        "Stocks.app": {
+            "safe": true
+        },
+        "System Information.app": {
+            "safe": true
+        },
+        "System Settings.app": {
+            "safe": true
+        },
+        "Terminal.app": {
+            "safe": true
+        },
+        "TextEdit.app": {
+            "safe": true
+        },
+        "Time Machine.app": {
+            "safe": true
+        },
+        "TV.app": {
+            "safe": true
+        },
+        "Uninstall OpenVPN Connect.app": {
+            "safe": true
+        },
+        "VB-Cable Control Panel.app": {
+            "safe": true
+        },
+        "VeraCrypt.app": {
+            "safe": true
+        },
+        "Visual Studio Code.app": {
+            "safe": true
+        },
+        "VoiceMemos.app": {
+            "safe": true
+        },
+        "VoiceOver Utility.app": {
+            "safe": true
+        },
+        "Weather.app": {
+            "safe": true
+        }
     }
 }
