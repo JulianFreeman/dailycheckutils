@@ -2000,6 +2000,39 @@
         },
         "彩球本地软件 5.2.5": {
             "safe": true
+        },
+        "CopyQ 6.0.1": {
+            "safe": true
+        },
+        "彩球本地软件 5.2.11": {
+            "safe": true
+        },
+        "AMD Ryzen Master SDK": {
+            "safe": true
+        },
+        "HP Audio Switch": {
+            "safe": true
+        },
+        "HP Connection Optimizer": {
+            "safe": true
+        },
+        "HP Documentation": {
+            "safe": true
+        },
+        "Microsoft 365 - en-us": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23026": {
+            "safe": true
+        },
+        "Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23026": {
+            "safe": true
+        },
+        "拉线填表App 2.1.3": {
+            "safe": true
         }
     },
     "extensions": {
@@ -3184,6 +3217,42 @@
         },
         "lmigoflgnkamnbadmnciijdneekddlnk": {
             "safe": true
+        },
+        "eagldibagbdnohhbgnmooopekipaildp": {
+            "safe": true
+        },
+        "kjkndjhgpcnldcgejmoffnihhaeepbkm": {
+            "safe": true
+        },
+        "cbpekbfkaeohicbbppdpaiaohacmpmnd": {
+            "safe": true
+        },
+        "mnjlogbngoplpkhflhdkdiekcmfclail": {
+            "safe": true
+        },
+        "llicfgafcfhgdmjmmaloenlijagoljfb": {
+            "safe": true
+        },
+        "kdkejdeiaibhjmcfnagkamcffdbokdpn": {
+            "safe": true
+        },
+        "fecpphnbgiimifjebapjnncaeopihahm": {
+            "safe": true
+        },
+        "olkdmbckgeeonjlobhejgjjhfoflcigf": {
+            "safe": true
+        },
+        "cgbljkbecjofjcbiihflfddpjppdimaf": {
+            "safe": true
+        },
+        "pkdhogmajmencldbajimchhadclaibfl": {
+            "safe": true
+        },
+        "dhegecklhgodjnnkinlbjlhjmjfndlic": {
+            "safe": true
+        },
+        "dnnnfahoeigkingkndkboidipmdhdkhc": {
+            "safe": true
         }
     },
     "isp": {
@@ -3208,6 +3277,9 @@
             "safe": true
         },
         "Gigabyte Technology Co., Ltd.": {
+            "safe": true
+        },
+        "HP": {
             "safe": true
         }
     },
